@@ -5,13 +5,7 @@ This repository contains a **basic calculator** application written in **C++** u
 ## Features
 
 - **Addition**, **Subtraction**, **Multiplication**, and **Division**  
-- Basic user interface made with Qt Widgets  
-- Clear and simple code structure, ideal for beginners learning Qt
-
-## Requirements
-
-- **Qt** (version 5 or above recommended)  
-- A **C++** compiler compatible with Qt
+- Basic user interface made with Qt Widgets 
 
 ## Getting Started
 
